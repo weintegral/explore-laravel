@@ -7,3 +7,7 @@
 * [Bootstrap](./bootstrap/app.php) 
 
 * [Dependency Configuration File](./composer.json)
+
+* MVC [Model View Controller] 
+
+* ORM (Object Relationship Mapper)

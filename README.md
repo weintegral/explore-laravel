@@ -11,3 +11,5 @@
 * MVC [Model View Controller] 
 
 * ORM (Object Relationship Mapper)
+
+* Framework vs Library
